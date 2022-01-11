@@ -14,7 +14,7 @@ return [
     */
 
     'name' => env('APP_NAME', 'Laravel'),
-    'key' => env('APP_KEY', 'base64:sHysEeepiZOJjk1cuZvWQ9Ys54PMRAl1nRstvnbpZVQ='),
+    'key' => env('APP_KEY', 'sHysEeepiZOJjk1cuZvWQ9Ys54PMRAl1nRstvnbpZVQ='),
 
     /*
     |--------------------------------------------------------------------------
